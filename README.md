@@ -98,7 +98,7 @@ The website is designed to be clear user-friendly. I've also put some effort to 
 
 <br />
 
-![Basic Website](./BMICalculator/screenshots/basic_website.png)
+![Basic Website](screenshots/basic_website.png)
 
 <br />
 
